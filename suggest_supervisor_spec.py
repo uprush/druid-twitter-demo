@@ -7,7 +7,7 @@ import re
 import sys
 import time
 
-channel = "banking-tweets"
+channel = "tweets"
 
 def is_number(s):
     try:
